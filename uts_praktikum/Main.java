@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package Soal1;
+package com.mycompany.uts_praktikum;
 import java.util.ArrayList;
 import java.util.List;
 /**
