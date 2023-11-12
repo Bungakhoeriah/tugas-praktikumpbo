@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author lenovo
+ * @author User
  */
 
 abstract class LibraryItem {
