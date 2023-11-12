@@ -4,6 +4,10 @@
  */
 package com.mycompany.uts_praktikum;
 import java.util.Scanner;
+/**
+ *
+ * @author User
+ */
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
